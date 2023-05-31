@@ -1,0 +1,231 @@
+body {
+  padding: 30px 30px;
+}
+
+.hey {
+  display: grid;
+  grid-template-columns: 10fr 1fr 1fr;
+  box-shadow: 1px 1px 6px rgba(14, 13, 13, 0.25);
+  background-color: #ffffff;
+  padding: 5px;
+  height: 60px;
+  padding: 1%;
+}
+
+.box img {
+  margin-top: 10px;
+  width: 15%;
+}
+
+button {
+  margin-top: 10px;
+  width: 110px;
+  border-radius: 20px;
+  height: 40px;
+}
+
+.head button {
+  background-color: white;
+  color: black;
+  font-size: 120%;
+  border: none;
+}
+
+.sign button {
+  background-color: black;
+  color: white;
+  font-size: 100%;
+}
+
+.food {
+  padding: 10px 10px;
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+  font-size: 100px;
+  margin-left: 30px;
+}
+
+.diff {
+  color: green;
+}
+
+.he img {
+  margin-left: 170px;
+  border-radius: 2rem;
+  box-shadow: #ffffff;
+  height: 95%;
+  width: 60%;
+}
+
+.image {
+  margin-top: 50px;
+  display: grid;
+  margin-left: 30px;
+  grid-template-columns: 4fr 4fr 4fr;
+  gap: 3;
+}
+
+.image img {
+  width: 60%;
+}
+
+.all {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr;
+  padding: 10px 10px 10px 10px;
+  margin-left: 50px;
+}
+
+.text {
+  font-size: 30px;
+}
+
+.dis {
+  color: gray;
+  font-size: 20px;
+}
+
+.star {
+  color: green;
+  font-size: 20px;
+}
+
+.rest button {
+  background-color: black;
+  border-radius: 2rem;
+  color: white;
+  font-size: 20%;
+  width: 40%;
+  height: 10%;
+}
+
+.next {
+  margin-left: 60px;
+  margin-top: 10%;
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+}
+
+.word b {
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.word p {
+  font-size: 20px;
+}
+
+.sec img {
+  border-radius: 2rem;
+}
+
+.order button {
+  background-color: black;
+  color: #ffffff;
+  width: 150px;
+}
+
+.grow {
+  margin-left: 50px;
+}
+
+.grow1 b {
+  font-size: 70px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.grow1 p {
+  font-size: 20px;
+}
+
+.sal img {
+  border-radius: 2rem;
+  width: 80%;
+  margin-left: 50px;
+  height: 95%;
+}
+
+.svg b {
+  font-size: 20px;
+}
+
+.svg p {
+  font-size: 15px;
+  color: gray;
+}
+
+.sales {
+  display: grid;
+  margin-top: 120px;
+  grid-template-columns: 5fr 7fr;
+}
+
+.svg1 {
+  margin-top: 60px;
+  display: grid;
+  grid-template-columns: 2.3fr 2.3fr 2.3fr;
+}
+
+.svg2 {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  margin-top: 20px;
+}
+
+.up button {
+  width: 250px;
+  height: 60px;
+  background-color: black;
+  color: white;
+  border-radius: 3rem;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.exp img {
+  margin-top: 70px;
+  margin-left: 90px;
+  width: 70%;
+  border-radius: 3rem;
+  height: 20%;
+}
+
+.top {
+  margin-top: 90px;
+  margin-left: 70px;
+  display: grid;
+  grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+
+.top b {
+  font-size: 25px;
+}
+
+.top p {
+  color: green;
+  font-size: 20px;
+}
+
+.appli {
+  display: grid;
+  grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+
+.app {
+  margin-left: 80px;
+  margin-top: -60px;
+}
+
+.app img {
+  width: 70%;
+}
+
+.play {
+  margin-top: -80px;
+}
+
+.play img {
+  width: 70%;
+}
+
+/*# sourceMappingURL=hey.css.map */
